@@ -20,9 +20,8 @@ This application uses data from [climate of SF](https://ggweather.com/sf/monthly
 ## The UI of the application:
 
 <p align="center">
-  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/mainWin.png" width="460" height="485"/>
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/anotherWin.png" width="460" height="485"/>
+  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/mainWin.png" width="460" height="485" style="margin-right: 20px;">
+  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/anotherWin.png" width="460" height="485">
 </p>
 
 ----------
