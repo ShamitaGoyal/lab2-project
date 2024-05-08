@@ -29,9 +29,9 @@ This application uses data from [climate of SF](https://ggweather.com/sf/monthly
 ## The previous UI of the application (using only tkinter):
 
 <p align="center">
-  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/mainwinP.png" width="400" height="310"/>
+  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/mainwinP.png" width="380" height="310"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/dialogwinP.png" width="400" height="310"/>
+  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/dialogwinP.png" width="380" height="310"/>
 </p>
 
 
