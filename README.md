@@ -8,7 +8,7 @@ This application uses data from [climate of SF](https://ggweather.com/sf/monthly
 
 &#9744; To run the program: have the three files as listed above in your IDE, and simply run the `lab2.py` file
 
-&#9744; This project explores how to write GUI using tkinter. However, I have used the customtkinter module to make the GUI for my application more modern. The documentation and information about this module can be found here on this [website](https://customtkinter.tomschimansky.com/) or on [Github](https://github.com/TomSchimansky/CustomTkinter).
+&#9744; This project explores how to write GUI applications using tkinter. However, I have used the customtkinter module to make the GUI for my application more modern. The documentation and information about this module can be found here on this [website](https://customtkinter.tomschimansky.com/) or on [Github](https://github.com/TomSchimansky/CustomTkinter).
 
 ----------
 ### Modules you may need to install in your IDE to run the program:
