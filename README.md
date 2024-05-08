@@ -17,13 +17,23 @@ This application uses data from [climate of SF](https://ggweather.com/sf/monthly
 - `pip install customtkinter`
 
 ----------
-## The UI of the application:
+## The UI of the final application:
 
 <p align="center">
-  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/mainWin.png" width="295" height="310"/>
+  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/mainWin.png" width="300" height="315"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/anotherWin.png" width="295" height="310"/>
+  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/anotherWin.png" width="300" height="315"/>
 </p>
+
+----------
+## The previous UI of the application (using only tkinter):
+
+<p align="center">
+  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/mainwinP.png" width="400" height="310"/>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/ShamitaGoyal/lab2-project/blob/main/images/dialogwinP.png" width="400" height="310"/>
+</p>
+
 
 ----------
 #### <p>Main concepts explored in this lab:</p>
