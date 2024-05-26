@@ -42,3 +42,4 @@ This application uses data from [climate of SF](https://ggweather.com/sf/monthly
 - numpy
 - matplotlib
 - data visualization
+- UI/UX Design
